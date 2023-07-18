@@ -1,0 +1,14 @@
+# cereus-user 9 PPR1.180610.011 V11.0.5.0.PCGMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6765
+- codename: cereus
+- flavor: cereus-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: V11.0.5.0.PCGMIXM
+- tags: release-keys
+- fingerprint: xiaomi/cereus/cereus:9/PPR1.180610.011/V11.0.5.0.PCGMIXM:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: cereus-user-9-PPR1.180610.011-V11.0.5.0.PCGMIXM-release-keys
+- repo: xiaomi_cereus_dump
